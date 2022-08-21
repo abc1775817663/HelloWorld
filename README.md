@@ -17,6 +17,7 @@ The following **required** functionality is completed:
 ## Video Walkthrough
 
 Here's a walkthrough of implemented features:
+https://drive.google.com/file/d/1JSYAXUdNH4fJ3EGISqvmjINtbGaZM6DQ/view?usp=sharing
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
